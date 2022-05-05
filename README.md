@@ -19,8 +19,8 @@ Baseline-Word2Vec
     dbpedia_csv
         class.txt   14クラス。単語間にスペースを挿入。
         readme.txt
-        test.csv    各40,000　計70,000
-        train.csv   各5,000　計560,000
+        train.csv    各40,000　計70,000
+        test.csv   各5,000　計560,000
     from https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbQ2Vic1kxMmZZQ1k
     
 前処理：
