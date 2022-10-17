@@ -14,6 +14,7 @@ https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 DBpedia2014から14クラスを選択したもの。クラス情報は単語間にスペースを挿入。学習データは、各40,000、計560,000、テストデータは、各5,000、計70,000。
 https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9QhbQ2Vic1kxMmZZQ1k
 から取得。
+class.txtは単語ごとに半角スペースで分割する必要がある。
 - dbpedia_csv
     - class.txt
     - readme.txt
